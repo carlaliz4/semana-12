@@ -1,0 +1,17 @@
+#recuadro1{
+    transform: translate(25px,10px);
+    border-radius: 20px;
+    background-color:#ddd;
+    width:200px;
+    padding:10px;
+}
+table{
+    border:1px solid black;   
+}
+th {
+    border:1px solid black;
+}
+td {
+    border:1px solid black;
+}
+table { border-spacing:10px;}
